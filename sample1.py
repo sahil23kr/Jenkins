@@ -1,3 +1,3 @@
 #!/bin/usr/python
-print "testing git"
+print "retesting git"
 print "second test"
